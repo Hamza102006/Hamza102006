@@ -50,39 +50,17 @@ I'm a **Computer Engineering student at the University of Guelph** who enjoys ta
 
 Real-time PPE compliance monitoring with object tracking, incident management, and a safety analytics dashboard.
 
-- Detected **4 PPE classes** at **94% accuracy**.
-- Processed **5,000+ detection events** with alerts and resolution tracking.
-- Reduced duplicate alerts by **80%** through object tracking and event handling.
-
 ### 📊 Customer Intelligence & AI Evals
 **TypeScript · Next.js · Python · Supabase · OpenAI API**
 
 A customer intelligence and model evaluation system that turns feedback into product insights and measures model performance.
 
-- Analyzed **1,000+ reviews** for customer sentiment, pain points, and trends.
-- Built **100+ evaluation tests** comparing **4 AI models** on quality, F1, latency, and cost.
-- Created dashboards for model regressions, emerging issues, and quality metrics.
 
 ### 🔎 Garland — Agentic Research Engine
 **Copilot Studio · Claude · Power Automate · SharePoint · Excel · HTML**
 
 Automated market and competitive intelligence workflows for monitoring strategic accounts and routing actionable findings.
 
-- Developed multi-agent workflows for research ingestion, classification, and summarization.
-- Monitored earnings, company updates, and competitive signals across **35+ accounts**.
-- Surfaced industry and product trends through automated research pipelines.
-
-> **Project links:** Add links to public repositories or demos here as you publish them. The project descriptions above are based on my experience; proprietary company code is not shared.
-
-## 💼 Experience at a Glance
-
-| Role | Organization | Highlights |
-| :--- | :--- | :--- |
-| **AI Solutions & Product Management** | Welbilt | AI agents, analytics, automation, and product delivery across 12+ initiatives |
-| **AI Product, Strategy & Market Development** | Moves | Market expansion research, user journey evaluation, and AI product concepts |
-| **Full-Stack Software Engineer** | Weve | React Native and Node.js event platform serving 150+ beta users |
-
----
 
 <div align="center">
 
